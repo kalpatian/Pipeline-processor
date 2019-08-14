@@ -1,0 +1,2 @@
+PIPECPU为流水线VIVADO工程文件
+SCPU_SOC为单周期VIVADO工程文件

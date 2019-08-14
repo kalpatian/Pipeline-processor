@@ -1,0 +1,3 @@
+PIPECPU为流水线代码，文件夹中work为ModelSim工程
+SCPUSIM为单周期代码，文件夹中work为ModelSim工程
+FPGATop为VIVADO下板子所需代码
